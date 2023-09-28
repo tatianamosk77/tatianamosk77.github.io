@@ -70,9 +70,17 @@ letter-spacing:0.08em;
 em{
 color:#3399ff;
 font-weight:700;
-font-size:0.8em;
+font-size:1.1em;
 display:block;
 font-style:normal;
+}
+pm{
+color:#D3D3D3;
+font-weight:500;
+font-size:1em;
+display:block;
+font-style:normal;
+  
 }
 label{
 color:#3399ff;
@@ -113,7 +121,7 @@ position:relative;
 
 .container .section_left{
 width:25%;
-padding:20px;
+padding:35px;
 background: #1b2631 ;
 color:#fff;
 }
@@ -171,7 +179,7 @@ display:block;
 }
 .container .section_right{
 width:100%;
-position:static;
+position:dinamic;
 display:block;
 }
 }
