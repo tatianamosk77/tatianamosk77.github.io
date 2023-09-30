@@ -22,7 +22,9 @@ background: gray;
 ::-webkit-scrollbar-corner {
 background: #000;
 }
-
+.w3-half {
+  text-align: center;
+}
 
 
 
