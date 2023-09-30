@@ -22,9 +22,7 @@ background: gray;
 ::-webkit-scrollbar-corner {
 background: #000;
 }
-.w3-half {
-  text-align: center;
-}
+
 
 
 
@@ -116,6 +114,10 @@ line-height:1em;
 
 
 /*CONTAINER*/
+.w3-half {
+  text-align: center;
+}
+
 .container{
 width:100%;
 position:relative;
